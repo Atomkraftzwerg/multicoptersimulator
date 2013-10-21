@@ -2,12 +2,12 @@
 
 = Screenshots =
 
-https://www.dropbox.com/s/vhriumq3c0pbvm3/Simulator%20VSE.png
+https://dl.dropboxusercontent.com/u/15145382/Simulator%20VSE.png
 
-https://www.dropbox.com/s/upt4xspw5wrtwmg/Simulator%20Control%20Window.png
+https://dl.dropboxusercontent.com/u/15145382/Simulator%20Control%20Window.png
 
-https://www.dropbox.com/s/pusp6g2mgmtgbjq/Simulator%20Simulation%20settings.png
+https://dl.dropboxusercontent.com/u/15145382/Simulator%20Simulation%20settings.png
 
-https://www.dropbox.com/s/3osb3hg2328bsb3/Simulator%20Statistics.png
+https://dl.dropboxusercontent.com/u/15145382/Simulator%20PID-Tuning.png
 
-https://www.dropbox.com/s/kpxg88rlbu3bja0/Simulator%20PID-Tuning.png
+https://dl.dropboxusercontent.com/u/15145382/Simulator%20Statistics.png
