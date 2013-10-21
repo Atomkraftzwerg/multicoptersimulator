@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!--This file was created with the Microsoft Visual Programming Language.-->
+<Manifest xmlns:multicoptersimulation="http://simulator.archaeocopter.de/2013/05/multicoptersimulation.html" xmlns:outdoor="http://www.microsoft.com/2008/09/outdoor.html" xmlns:simulationengine="http://schemas.microsoft.com/robotics/2006/04/simulationengine.html" xmlns:dssp="http://schemas.microsoft.com/xw/2004/10/dssp.html" xmlns:this="urn:uuid:3e788f98-84ad-47cd-a185-971a40e93825" xmlns="http://schemas.microsoft.com/xw/2004/10/manifest.html">
+  <CreateServiceList>
+    <ServiceRecordType>
+      <dssp:Contract>http://simulator.archaeocopter.de/2013/05/multicoptersimulation.html</dssp:Contract>
+      <dssp:PartnerList />
+      <Name>this:MulticopterSimulation</Name>
+    </ServiceRecordType>
+    <ServiceRecordType>
+      <dssp:Contract>http://schemas.microsoft.com/robotics/2006/04/simulationengine.html</dssp:Contract>
+      <dssp:PartnerList>
+        <dssp:Partner>
+          <dssp:Contract>http://schemas.microsoft.com/robotics/2006/04/simulationengine.html</dssp:Contract>
+          <dssp:Service>multicopteroutdoor.config.xml</dssp:Service>
+          <dssp:PartnerList />
+          <dssp:Name>dssp:StateService</dssp:Name>
+        </dssp:Partner>
+      </dssp:PartnerList>
+      <Name>this:SimulationEngine</Name>
+    </ServiceRecordType>
+    <ServiceRecordType>
+      <dssp:Contract>http://www.microsoft.com/2008/09/outdoor.html</dssp:Contract>
+      <dssp:PartnerList />
+      <Name>this:OutdoorSimulation</Name>
+    </ServiceRecordType>
+  </CreateServiceList>
+</Manifest>
