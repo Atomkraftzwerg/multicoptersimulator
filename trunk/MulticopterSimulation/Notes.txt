@@ -1,0 +1,31 @@
+﻿Allgemein:
+- Position halten: Neuer Ansatz, mache Methode die den Winkel um die X und Y-Achse angibt
+- PID-Controller für Position halten funktionabel machen
+- Bei allen Trackbars auch noch ne TextBox drunter
+- Controller Back Button schaltet Kamera um
+
+Windsimulation:
+- Windsimulation Grad des Schwankens einstellbar
+- Sinnvollere Werte für Windsimulation
+
+Statistik:
+- Start bei den Statistics implementieren
+- Einstellbar machen, was auf dem Plot-Graph angezeigt werden soll (Höhe, Velocity, Grad der Schwankung, Thrust etc.)
+- Abfragehäufigkeit des Plot-Graphen veränderbar machen
+- Auto-Y-Skalierung des Graphen
+- Y-Skalierung speichern im State
+
+Control:
+- Zu haltende Höhe einstellbar machen (Edit-Feld)
+- Gewicht des Multicopters anzeigen und evtl. einstellbar machen
+- Konstante für die Propeller-Inclination einführen
+
+Erstmal unwichtig für die BA:
+- Refactoring windows
+- Pilotenkamera
+- Kamera nach Wechsel von Pursuit auf MainCamera auf Stelle von Pursuit Cam setzen
+- Zoom in und Zoom out der Verfolgerkamera auch via Tastendruck
+- Zoom in und Zoom out auch für Pilotenkamera
+- Kamerarotation für Verfolgerkamera per Tastendruck
+- Virtuelle Joystick schlagen zu sehr an den Rand aus
+- Mehrere Tastendrücke erlauben (Polling einführen)

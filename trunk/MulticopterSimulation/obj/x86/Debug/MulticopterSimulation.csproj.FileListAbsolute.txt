@@ -1,0 +1,12 @@
+D:\Programme\Microsoft Robotics Dev Studio 4\bin\MulticopterOutdoor.Config.xml
+D:\Programme\Microsoft Robotics Dev Studio 4\bin\MulticopterSimulation.manifest.xml
+D:\Programme\Microsoft Robotics Dev Studio 4\bin\MulticopterSimulation.Y2013.M05.dll
+D:\Programme\Microsoft Robotics Dev Studio 4\bin\MulticopterSimulation.Y2013.M05.pdb
+D:\Eigene Projekte\Visual Studio Projekte\MulticopterSimulator\MulticopterSimulation\obj\x86\Debug\MulticopterSimulation.csprojResolveAssemblyReference.cache
+D:\Eigene Projekte\Visual Studio Projekte\MulticopterSimulator\MulticopterSimulation\obj\x86\Debug\MulticopterSimulation.Windows.WindowSimulationSettings.resources
+D:\Eigene Projekte\Visual Studio Projekte\MulticopterSimulator\MulticopterSimulation\obj\x86\Debug\MulticopterSimulation.csproj.GenerateResource.Cache
+D:\Eigene Projekte\Visual Studio Projekte\MulticopterSimulator\MulticopterSimulation\obj\x86\Debug\MulticopterSimulation.Y2013.M05.dll
+D:\Eigene Projekte\Visual Studio Projekte\MulticopterSimulator\MulticopterSimulation\obj\x86\Debug\MulticopterSimulation.Y2013.M05.pdb
+D:\Eigene Projekte\Visual Studio Projekte\MulticopterSimulator\MulticopterSimulation\obj\x86\Debug\MulticopterSimulation.Windows.WindowStatistics.resources
+D:\Eigene Projekte\Visual Studio Projekte\MulticopterSimulator\MulticopterSimulation\obj\x86\Debug\MulticopterSimulation.Windows.WindowControl.resources
+D:\Eigene Projekte\Visual Studio Projekte\MulticopterSimulator\MulticopterSimulation\obj\x86\Debug\MulticopterSimulation.Windows.WindowPIDTuning.resources
