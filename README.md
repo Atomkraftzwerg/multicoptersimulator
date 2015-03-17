@@ -1,5 +1,5 @@
 # Multicopter Simulator
-Automatically exported from code.google.com/p/multicoptersimulator.
+A 3D multicopter simulator with providing wind simulation, PID controlled flying and gamepad support.
 
 ## Introduction
 This projects focuses on developing a simulation environment for 
