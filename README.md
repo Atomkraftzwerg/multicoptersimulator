@@ -38,7 +38,7 @@ If you have any problems or questions, please don't hesitate to contact me.
 ## Screenshots
 
 ### Visual Simulation Environment
-![Simulator settings window](https://dl.dropboxusercontent.com/u/15145382/Simulator%20Simulation%20settings.png)
+![VSE window](https://dl.dropboxusercontent.com/u/15145382/Simulator%20VSE.png)
 
 The Visual Simulation Environment provides the graphic output of the simulation. 
 In this window the camera views can be controlled, it is also possible to move the camera freely.
@@ -63,7 +63,7 @@ Autotuning wasn't implemented yet, so it is possible to manually tune the P, I a
 of the controllers in this window.
 
 ### Statistics window
-![PID tuning window](https://dl.dropboxusercontent.com/u/15145382/Simulator%20Statistics.png)
+![Statistics window](https://dl.dropboxusercontent.com/u/15145382/Simulator%20Statistics.png)
 
 This window provides the recording of statistics of a set of values. Also a graphic plot output 
 is given for the values. Furthermore some debug data is shown in this window.
